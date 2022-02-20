@@ -1,0 +1,87 @@
+body{
+    background-color: grey;
+}
+.login_container{
+    width: 800px;
+    background-color: whitesmoke;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+.bottom_container{
+    height: 90%;
+}
+.top_container{
+    height: 10%;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+}
+.top_container hr{
+    border: solid black 1px;
+    margin: auto;
+    width: 50%;
+}
+.left_top{
+    height: 180px;
+    width: 70%;
+    padding: 0;    
+    margin: auto;
+    
+}
+.left_bottom{
+    height: 180px;
+    width: 70%;
+    padding: 0;
+    margin: auto;
+}
+.za_input{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #000000;
+    width: 80%;
+    font-size: 40px;
+    text-align: center;
+}
+.after_padding{
+    font-size: 30px;
+    margin: auto;
+
+}
+#none_fix{
+    background-color: lightgray;
+    height: 60px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px ;
+    width: 70%;
+    border-radius: 15px;
+    line-height: 55px;
+    font-size: 20px;
+    border: inset black;
+}
+.none_fix{
+    background-color: lightgray;
+    height: 60px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px ;
+    width: 70%;
+    border-radius: 15px;
+    font-size: 25px;
+    font-size: 40px;
+    
+}
+.right_30 button{
+    height: 90px;
+}
+.left_70{
+    text-align: center;
+}
+.text{
+    font-size: 40px;
+}
+.imgs{
+    height: 100px;
+    width: 100px;
+}
